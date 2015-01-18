@@ -1,0 +1,12 @@
+# Site settings
+title: tie's blog
+email: blog@morp.org
+description: > # this means to ignore newlines until "baseurl:"
+  Off the top of my kopf
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://gtie.github.io" # the base hostname & protocol for your site
+github_username:  gtie
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
