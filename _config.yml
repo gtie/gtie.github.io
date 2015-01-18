@@ -11,8 +11,8 @@ theme:
   description: "Techno rants that you are probably not interested in" # used by search engines
   
   # Header and footer text
-  header_text: >
-     <p>Techno ra(n)ts</p>
+  header_text: #>
+     #<p>Techno ra(n)ts</p>
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type.html">Type Theme</a>
   
