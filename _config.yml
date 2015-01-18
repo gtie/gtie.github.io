@@ -18,13 +18,13 @@ theme:
   
   # Icons
   rss: true
-  email_address: tieblog@morp.org # full email address, e.g. "sam@example.com"
+  email_address: # full email address, e.g. "sam@example.com"
   behance:
   bitbucket: 
   dribbble: 
   facebook: 
   flickr: 
-  github: "rohanchandra/type-theme"
+  github: 
   google_plus: 
   instagram: 
   linkedin:  # full URL
@@ -34,7 +34,7 @@ theme:
   stack_exchange:  # full URL
   steam: 
   tumblr: 
-  twitter: "twitter"
+  twitter: 
   wordpress: 
   youtube: 
   
