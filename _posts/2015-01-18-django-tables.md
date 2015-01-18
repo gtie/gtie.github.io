@@ -5,10 +5,10 @@ title: What I don't like about django-tables2
 
 You might already know, but in case you don't - [django-tables2](http://django-tables2.readthedocs.org) is a great library for easy rendering of HTML tables. It allows the form to be declared as a Python object, and then rendered with one swift template tag invocation. It's for tables what [django-crispy-forms](http://django-crispy-forms.readthedocs.org/en/latest/index.html) is for forms.
 
-As someone, who doesn't like to fiddle with the frontend at all, apps like the above two are pretty great, especially in the prototyping phase. Plus, they have a some pretty significant benefits:
- * Generated HTML is clean and consistent across all pages that use those libraries
- * Reusing code thorugh Python inheritance (as opposed to the weaker reusal options givn by templates)
- * More compact template code (at the expense of extra Python code though)
+As someone, who doesn't like to fiddle with the frontend at all, apps like the above two are pretty great, especially in the prototyping phase. Plus, they have a some significant benefits:
+  *   Generated HTML is clean and consistent across all pages that use those libraries
+  *   Reusing code thorugh Python inheritance (as opposed to the weaker reusal options givn by templates)
+  *   More compact template code (at the expense of extra Python code though)
 
 This being said, there is one thing you need to consider when using that approach: you're breaking the MVC model. No excuses there.
 
